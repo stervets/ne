@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 398597af344064014b203aa174a168d6
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Barrel 1
+    100004: Barrel64
+    100006: Barrel64 1
+    100008: Gun115
+    100010: Gun116
+    100012: //RootNode
+    100014: plate1
+    100016: plate1 1
+    100018: plate2
+    100020: plate2 1
+    100022: plate3
+    100024: plate3 1
+    100026: Plate4
+    100028: plate4
+    100030: plate4 1
+    100032: transform18
+    100034: transform18 1
+    100036: plate_14
+    100038: plate_15
+    400000: Barrel
+    400002: Barrel 1
+    400004: Barrel64
+    400006: Barrel64 1
+    400008: Gun115
+    400010: Gun116
+    400012: //RootNode
+    400014: plate1
+    400016: plate1 1
+    400018: plate2
+    400020: plate2 1
+    400022: plate3
+    400024: plate3 1
+    400026: Plate4
+    400028: plate4
+    400030: plate4 1
+    400032: transform18
+    400034: transform18 1
+    400036: plate_14
+    400038: plate_15
+    2300000: Barrel
+    2300002: Barrel 1
+    2300004: Gun115
+    2300006: Gun116
+    2300008: //RootNode
+    2300010: plate1
+    2300012: plate1 1
+    2300014: plate2
+    2300016: plate2 1
+    2300018: plate3
+    2300020: plate3 1
+    2300022: Plate4
+    2300024: plate4
+    2300026: plate4 1
+    2300028: plate_14
+    2300030: plate_15
+    3300000: Barrel
+    3300002: Barrel 1
+    3300004: Gun115
+    3300006: Gun116
+    3300008: //RootNode
+    3300010: plate1
+    3300012: plate1 1
+    3300014: plate2
+    3300016: plate2 1
+    3300018: plate3
+    3300020: plate3 1
+    3300022: Plate4
+    3300024: plate4
+    3300026: plate4 1
+    3300028: plate_14
+    3300030: plate_15
+    4300000: IC_01_B
+    4300002: Gun116
+    4300004: Barrel
+    4300006: plate1
+    4300008: plate2
+    4300010: plate3
+    4300012: plate4
+    4300014: Plate4
+    4300016: Gun115
+    4300018: Barrel
+    4300020: plate1
+    4300022: plate2
+    4300024: plate3
+    4300026: plate4
+    4300028: plate_14
+    4300030: plate_15
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

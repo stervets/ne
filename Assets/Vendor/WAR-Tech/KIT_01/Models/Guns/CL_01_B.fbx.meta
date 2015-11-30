@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 05a74b81c4de24acfb1ad515bb1e4b05
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: claws_parts1
+    100004: claws_parts3
+    100006: claws_parts7
+    100008: claws_parts8
+    100010: pCube564
+    100012: pCube570
+    100014: Pipe111
+    100016: Pipe112
+    100018: Pipe113
+    100020: Pipe114
+    100022: Rotor30
+    100024: Rotor8
+    100026: Rotor8 1
+    100028: Rotor9
+    100030: Rotor9 1
+    400000: //RootNode
+    400002: claws_parts1
+    400004: claws_parts3
+    400006: claws_parts7
+    400008: claws_parts8
+    400010: pCube564
+    400012: pCube570
+    400014: Pipe111
+    400016: Pipe112
+    400018: Pipe113
+    400020: Pipe114
+    400022: Rotor30
+    400024: Rotor8
+    400026: Rotor8 1
+    400028: Rotor9
+    400030: Rotor9 1
+    2300000: //RootNode
+    2300002: claws_parts1
+    2300004: claws_parts3
+    2300006: claws_parts7
+    2300008: claws_parts8
+    2300010: pCube564
+    2300012: pCube570
+    2300014: Pipe111
+    2300016: Pipe112
+    2300018: Pipe113
+    2300020: Pipe114
+    2300022: Rotor30
+    2300024: Rotor8
+    2300026: Rotor8 1
+    2300028: Rotor9
+    2300030: Rotor9 1
+    3300000: //RootNode
+    3300002: claws_parts1
+    3300004: claws_parts3
+    3300006: claws_parts7
+    3300008: claws_parts8
+    3300010: pCube564
+    3300012: pCube570
+    3300014: Pipe111
+    3300016: Pipe112
+    3300018: Pipe113
+    3300020: Pipe114
+    3300022: Rotor30
+    3300024: Rotor8
+    3300026: Rotor8 1
+    3300028: Rotor9
+    3300030: Rotor9 1
+    4300000: CL_01_B
+    4300002: Pipe111
+    4300004: Pipe112
+    4300006: Pipe113
+    4300008: Pipe114
+    4300010: Rotor30
+    4300012: pCube570
+    4300014: Rotor8
+    4300016: claws_parts7
+    4300018: Rotor9
+    4300020: claws_parts8
+    4300022: pCube564
+    4300024: Rotor8
+    4300026: claws_parts3
+    4300028: Rotor9
+    4300030: claws_parts1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

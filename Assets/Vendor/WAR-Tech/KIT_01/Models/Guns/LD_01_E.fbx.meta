@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 162e0a80d45fc48f2ba780479c50b734
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Barrel91
+    100002: Barrel92
+    100004: claws_parts7
+    100006: claws_parts7 1
+    100008: claws_parts7 2
+    100010: claws_parts7 3
+    100012: claws_parts7 4
+    100014: claws_parts7 5
+    100016: claws_parts8
+    100018: claws_parts8 1
+    100020: claws_parts8 2
+    100022: claws_parts8 3
+    100024: claws_parts8 4
+    100026: claws_parts8 5
+    100028: group36
+    100030: group45
+    100032: group45 1
+    100034: //RootNode
+    100036: Rotor40
+    100038: Rotor41
+    100040: Rotor41 1
+    100042: Rotor43
+    100044: Rotor44
+    100046: Rotor45
+    100048: Rotor9
+    100050: Rotor9 1
+    100052: Rotor9 2
+    100054: Rotor9 3
+    100056: Rotor9 4
+    100058: Rotor9 5
+    100060: Barrel96
+    100062: Barrel97
+    100064: claws_parts57
+    100066: claws_parts58
+    100068: claws_parts59
+    100070: claws_parts60
+    100072: claws_parts63
+    100074: claws_parts64
+    100076: claws_parts71
+    100078: claws_parts72
+    100080: claws_parts73
+    100082: claws_parts74
+    100084: claws_parts75
+    100086: claws_parts76
+    100088: Rotor77
+    100090: Rotor78
+    100092: Rotor79
+    100094: Rotor80
+    100096: Rotor83
+    100098: Rotor84
+    100100: Rotor91
+    100102: Rotor92
+    100104: Rotor93
+    100106: Rotor94
+    100108: Rotor95
+    100110: Rotor96
+    400000: Barrel91
+    400002: Barrel92
+    400004: claws_parts7
+    400006: claws_parts7 1
+    400008: claws_parts7 2
+    400010: claws_parts7 3
+    400012: claws_parts7 4
+    400014: claws_parts7 5
+    400016: claws_parts8
+    400018: claws_parts8 1
+    400020: claws_parts8 2
+    400022: claws_parts8 3
+    400024: claws_parts8 4
+    400026: claws_parts8 5
+    400028: group36
+    400030: group45
+    400032: group45 1
+    400034: //RootNode
+    400036: Rotor40
+    400038: Rotor41
+    400040: Rotor41 1
+    400042: Rotor43
+    400044: Rotor44
+    400046: Rotor45
+    400048: Rotor9
+    400050: Rotor9 1
+    400052: Rotor9 2
+    400054: Rotor9 3
+    400056: Rotor9 4
+    400058: Rotor9 5
+    400060: Barrel96
+    400062: Barrel97
+    400064: claws_parts57
+    400066: claws_parts58
+    400068: claws_parts59
+    400070: claws_parts60
+    400072: claws_parts63
+    400074: claws_parts64
+    400076: claws_parts71
+    400078: claws_parts72
+    400080: claws_parts73
+    400082: claws_parts74
+    400084: claws_parts75
+    400086: claws_parts76
+    400088: Rotor77
+    400090: Rotor78
+    400092: Rotor79
+    400094: Rotor80
+    400096: Rotor83
+    400098: Rotor84
+    400100: Rotor91
+    400102: Rotor92
+    400104: Rotor93
+    400106: Rotor94
+    400108: Rotor95
+    400110: Rotor96
+    2300000: Barrel91
+    2300002: Barrel92
+    2300004: claws_parts7
+    2300006: claws_parts7 1
+    2300008: claws_parts7 2
+    2300010: claws_parts7 3
+    2300012: claws_parts7 4
+    2300014: claws_parts7 5
+    2300016: claws_parts8
+    2300018: claws_parts8 1
+    2300020: claws_parts8 2
+    2300022: claws_parts8 3
+    2300024: claws_parts8 4
+    2300026: claws_parts8 5
+    2300028: //RootNode
+    2300030: Rotor40
+    2300032: Rotor41
+    2300034: Rotor41 1
+    2300036: Rotor43
+    2300038: Rotor44
+    2300040: Rotor45
+    2300042: Rotor9
+    2300044: Rotor9 1
+    2300046: Rotor9 2
+    2300048: Rotor9 3
+    2300050: Rotor9 4
+    2300052: Rotor9 5
+    2300054: Barrel96
+    2300056: Barrel97
+    2300058: claws_parts57
+    2300060: claws_parts58
+    2300062: claws_parts59
+    2300064: claws_parts60
+    2300066: claws_parts63
+    2300068: claws_parts64
+    2300070: claws_parts71
+    2300072: claws_parts72
+    2300074: claws_parts73
+    2300076: claws_parts74
+    2300078: claws_parts75
+    2300080: claws_parts76
+    2300082: Rotor77
+    2300084: Rotor78
+    2300086: Rotor79
+    2300088: Rotor80
+    2300090: Rotor83
+    2300092: Rotor84
+    2300094: Rotor91
+    2300096: Rotor92
+    2300098: Rotor93
+    2300100: Rotor94
+    2300102: Rotor95
+    2300104: Rotor96
+    3300000: Barrel91
+    3300002: Barrel92
+    3300004: claws_parts7
+    3300006: claws_parts7 1
+    3300008: claws_parts7 2
+    3300010: claws_parts7 3
+    3300012: claws_parts7 4
+    3300014: claws_parts7 5
+    3300016: claws_parts8
+    3300018: claws_parts8 1
+    3300020: claws_parts8 2
+    3300022: claws_parts8 3
+    3300024: claws_parts8 4
+    3300026: claws_parts8 5
+    3300028: //RootNode
+    3300030: Rotor40
+    3300032: Rotor41
+    3300034: Rotor41 1
+    3300036: Rotor43
+    3300038: Rotor44
+    3300040: Rotor45
+    3300042: Rotor9
+    3300044: Rotor9 1
+    3300046: Rotor9 2
+    3300048: Rotor9 3
+    3300050: Rotor9 4
+    3300052: Rotor9 5
+    3300054: Barrel96
+    3300056: Barrel97
+    3300058: claws_parts57
+    3300060: claws_parts58
+    3300062: claws_parts59
+    3300064: claws_parts60
+    3300066: claws_parts63
+    3300068: claws_parts64
+    3300070: claws_parts71
+    3300072: claws_parts72
+    3300074: claws_parts73
+    3300076: claws_parts74
+    3300078: claws_parts75
+    3300080: claws_parts76
+    3300082: Rotor77
+    3300084: Rotor78
+    3300086: Rotor79
+    3300088: Rotor80
+    3300090: Rotor83
+    3300092: Rotor84
+    3300094: Rotor91
+    3300096: Rotor92
+    3300098: Rotor93
+    3300100: Rotor94
+    3300102: Rotor95
+    3300104: Rotor96
+    4300000: LD_01_E
+    4300002: Barrel91
+    4300004: Rotor41
+    4300006: claws_parts7
+    4300008: Rotor9
+    4300010: claws_parts8
+    4300012: Rotor41
+    4300014: claws_parts7
+    4300016: Rotor9
+    4300018: claws_parts8
+    4300020: Rotor45
+    4300022: claws_parts7
+    4300024: Rotor9
+    4300026: claws_parts8
+    4300028: Barrel92
+    4300030: Rotor40
+    4300032: claws_parts7
+    4300034: Rotor9
+    4300036: claws_parts8
+    4300038: Rotor43
+    4300040: claws_parts7
+    4300042: Rotor9
+    4300044: claws_parts8
+    4300046: Rotor44
+    4300048: claws_parts7
+    4300050: Rotor9
+    4300052: claws_parts8
+    4300054: Barrel96
+    4300056: Rotor77
+    4300058: claws_parts57
+    4300060: Rotor78
+    4300062: claws_parts58
+    4300064: Rotor79
+    4300066: claws_parts59
+    4300068: Rotor80
+    4300070: claws_parts60
+    4300072: Rotor83
+    4300074: claws_parts63
+    4300076: Rotor84
+    4300078: claws_parts64
+    4300080: Barrel97
+    4300082: Rotor95
+    4300084: claws_parts75
+    4300086: Rotor96
+    4300088: claws_parts76
+    4300090: Rotor91
+    4300092: claws_parts71
+    4300094: Rotor92
+    4300096: claws_parts72
+    4300098: Rotor93
+    4300100: claws_parts73
+    4300102: Rotor94
+    4300104: claws_parts74
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

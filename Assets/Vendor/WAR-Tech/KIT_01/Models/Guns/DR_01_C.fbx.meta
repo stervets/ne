@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 07bd36340cf3c44e3b91a39a52304f14
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pipe118
+    100004: Pipe119
+    100006: Pipe120
+    100008: Pipe121
+    100010: Pipe122
+    100012: Pipe126
+    100014: Pipe127
+    100016: Pipe128
+    100018: Pipe129
+    100020: Pipe130
+    100022: polySurface135
+    100024: polySurface135 1
+    100026: Rotor31
+    100028: Rotor32
+    400000: //RootNode
+    400002: Pipe118
+    400004: Pipe119
+    400006: Pipe120
+    400008: Pipe121
+    400010: Pipe122
+    400012: Pipe126
+    400014: Pipe127
+    400016: Pipe128
+    400018: Pipe129
+    400020: Pipe130
+    400022: polySurface135
+    400024: polySurface135 1
+    400026: Rotor31
+    400028: Rotor32
+    2300000: //RootNode
+    2300002: Pipe118
+    2300004: Pipe119
+    2300006: Pipe120
+    2300008: Pipe121
+    2300010: Pipe122
+    2300012: Pipe126
+    2300014: Pipe127
+    2300016: Pipe128
+    2300018: Pipe129
+    2300020: Pipe130
+    2300022: polySurface135
+    2300024: polySurface135 1
+    2300026: Rotor31
+    2300028: Rotor32
+    3300000: //RootNode
+    3300002: Pipe118
+    3300004: Pipe119
+    3300006: Pipe120
+    3300008: Pipe121
+    3300010: Pipe122
+    3300012: Pipe126
+    3300014: Pipe127
+    3300016: Pipe128
+    3300018: Pipe129
+    3300020: Pipe130
+    3300022: polySurface135
+    3300024: polySurface135 1
+    3300026: Rotor31
+    3300028: Rotor32
+    4300000: DR_01_C
+    4300002: Pipe118
+    4300004: Pipe119
+    4300006: Pipe120
+    4300008: Pipe121
+    4300010: Pipe122
+    4300012: Rotor32
+    4300014: polySurface135
+    4300016: Pipe126
+    4300018: Pipe127
+    4300020: Pipe128
+    4300022: Pipe129
+    4300024: Pipe130
+    4300026: Rotor31
+    4300028: polySurface135
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

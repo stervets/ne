@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: fed438008929f4985bd1828e536d9126
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: eye1
+    100004: eye2
+    100006: //RootNode
+    100008: pCylinder950
+    100010: pCylinder950 1
+    100012: Propeller1
+    100014: Propeller2
+    100016: ROTOR_DOWN
+    100018: Rotor_Left
+    100020: ROTOR_MAIN1
+    100022: Rotor_Right
+    100024: Wing1
+    100026: Wing2
+    100028: Wing3
+    100030: Wing4
+    100032: Wing5
+    100034: Wing6
+    400000: Body
+    400002: eye1
+    400004: eye2
+    400006: //RootNode
+    400008: pCylinder950
+    400010: pCylinder950 1
+    400012: Propeller1
+    400014: Propeller2
+    400016: ROTOR_DOWN
+    400018: Rotor_Left
+    400020: ROTOR_MAIN1
+    400022: Rotor_Right
+    400024: Wing1
+    400026: Wing2
+    400028: Wing3
+    400030: Wing4
+    400032: Wing5
+    400034: Wing6
+    2300000: Body
+    2300002: eye1
+    2300004: eye2
+    2300006: //RootNode
+    2300008: pCylinder950
+    2300010: pCylinder950 1
+    2300012: Propeller1
+    2300014: Propeller2
+    2300016: ROTOR_DOWN
+    2300018: Rotor_Left
+    2300020: ROTOR_MAIN1
+    2300022: Rotor_Right
+    2300024: Wing1
+    2300026: Wing2
+    2300028: Wing3
+    2300030: Wing4
+    2300032: Wing5
+    2300034: Wing6
+    3300000: Body
+    3300002: eye1
+    3300004: eye2
+    3300006: //RootNode
+    3300008: pCylinder950
+    3300010: pCylinder950 1
+    3300012: Propeller1
+    3300014: Propeller2
+    3300016: ROTOR_DOWN
+    3300018: Rotor_Left
+    3300020: ROTOR_MAIN1
+    3300022: Rotor_Right
+    3300024: Wing1
+    3300026: Wing2
+    3300028: Wing3
+    3300030: Wing4
+    3300032: Wing5
+    3300034: Wing6
+    4300000: FLYING_DRONE_01
+    4300002: ROTOR_MAIN1
+    4300004: Rotor_Left
+    4300006: Propeller1
+    4300008: pCylinder950
+    4300010: Wing1
+    4300012: Wing2
+    4300014: Wing3
+    4300016: Propeller2
+    4300018: pCylinder950
+    4300020: Wing4
+    4300022: Wing6
+    4300024: Wing5
+    4300026: Rotor_Right
+    4300028: ROTOR_DOWN
+    4300030: Body
+    4300032: eye2
+    4300034: eye1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

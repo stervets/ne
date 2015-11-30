@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 08a0cb43754ae451e8e740e827dc1a52
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _Glass6
+    100002: Body1
+    100004: Camera1
+    100006: //RootNode
+    100008: Controlers_5
+    100010: Controlers_6
+    100012: Glass_Frame
+    100014: Joistick_3
+    100016: Joistick_4
+    100018: Laser2
+    100020: Light4
+    100022: Light5
+    100024: Neck1
+    100026: pCube604
+    100028: Rotor_Left1
+    100030: ROTOR_MAIN2
+    100032: Rotor_Right1
+    100034: Seat_Bottom2
+    100036: Tech1
+    100038: ROTOR_MAIN
+    400000: _Glass6
+    400002: Body1
+    400004: Camera1
+    400006: //RootNode
+    400008: Controlers_5
+    400010: Controlers_6
+    400012: Glass_Frame
+    400014: Joistick_3
+    400016: Joistick_4
+    400018: Laser2
+    400020: Light4
+    400022: Light5
+    400024: Neck1
+    400026: pCube604
+    400028: Rotor_Left1
+    400030: ROTOR_MAIN2
+    400032: Rotor_Right1
+    400034: Seat_Bottom2
+    400036: Tech1
+    400038: ROTOR_MAIN
+    2300000: _Glass6
+    2300002: Body1
+    2300004: Camera1
+    2300006: //RootNode
+    2300008: Controlers_5
+    2300010: Controlers_6
+    2300012: Glass_Frame
+    2300014: Joistick_3
+    2300016: Joistick_4
+    2300018: Laser2
+    2300020: Light4
+    2300022: Light5
+    2300024: Neck1
+    2300026: pCube604
+    2300028: Rotor_Left1
+    2300030: ROTOR_MAIN2
+    2300032: Rotor_Right1
+    2300034: Seat_Bottom2
+    2300036: Tech1
+    2300038: ROTOR_MAIN
+    3300000: _Glass6
+    3300002: Body1
+    3300004: Camera1
+    3300006: //RootNode
+    3300008: Controlers_5
+    3300010: Controlers_6
+    3300012: Glass_Frame
+    3300014: Joistick_3
+    3300016: Joistick_4
+    3300018: Laser2
+    3300020: Light4
+    3300022: Light5
+    3300024: Neck1
+    3300026: pCube604
+    3300028: Rotor_Left1
+    3300030: ROTOR_MAIN2
+    3300032: Rotor_Right1
+    3300034: Seat_Bottom2
+    3300036: Tech1
+    3300038: ROTOR_MAIN
+    4300000: COCKPIT_01_D
+    4300002: Body1
+    4300004: Tech1
+    4300006: Laser2
+    4300008: Camera1
+    4300010: ROTOR_MAIN2
+    4300012: Rotor_Left1
+    4300014: Rotor_Right1
+    4300016: pCube604
+    4300018: Light4
+    4300020: Light5
+    4300022: Controlers_5
+    4300024: Joistick_3
+    4300026: Controlers_6
+    4300028: Joistick_4
+    4300030: Seat_Bottom2
+    4300032: Glass_Frame
+    4300034: _Glass6
+    4300036: Neck1
+    4300038: ROTOR_MAIN
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

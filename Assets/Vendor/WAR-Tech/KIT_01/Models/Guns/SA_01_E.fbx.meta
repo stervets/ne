@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 3fcb7d34935b54b5d8931d15d8a0c41a
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Pipe153
+    100002: Pipe154
+    100004: Pipe155
+    100006: Pipe156
+    100008: Pipe157
+    100010: Pipe158
+    100012: Pipe160
+    100014: Pipe75
+    100016: Pipe76
+    100018: Pipe77
+    100020: Pipe78
+    100022: Pipe79
+    100024: Rotor37
+    100026: Rotor4
+    100028: //RootNode
+    100030: Saw_Hand1
+    100032: Saw_Hand2
+    100034: Saw_Plate3
+    100036: Saw_Plate8
+    100038: Saw_Plate9
+    400000: Pipe153
+    400002: Pipe154
+    400004: Pipe155
+    400006: Pipe156
+    400008: Pipe157
+    400010: Pipe158
+    400012: Pipe160
+    400014: Pipe75
+    400016: Pipe76
+    400018: Pipe77
+    400020: Pipe78
+    400022: Pipe79
+    400024: Rotor37
+    400026: Rotor4
+    400028: //RootNode
+    400030: Saw_Hand1
+    400032: Saw_Hand2
+    400034: Saw_Plate3
+    400036: Saw_Plate8
+    400038: Saw_Plate9
+    2300000: Pipe153
+    2300002: Pipe154
+    2300004: Pipe155
+    2300006: Pipe156
+    2300008: Pipe157
+    2300010: Pipe158
+    2300012: Pipe160
+    2300014: Pipe75
+    2300016: Pipe76
+    2300018: Pipe77
+    2300020: Pipe78
+    2300022: Pipe79
+    2300024: Rotor37
+    2300026: Rotor4
+    2300028: //RootNode
+    2300030: Saw_Hand1
+    2300032: Saw_Hand2
+    2300034: Saw_Plate3
+    2300036: Saw_Plate8
+    2300038: Saw_Plate9
+    3300000: Pipe153
+    3300002: Pipe154
+    3300004: Pipe155
+    3300006: Pipe156
+    3300008: Pipe157
+    3300010: Pipe158
+    3300012: Pipe160
+    3300014: Pipe75
+    3300016: Pipe76
+    3300018: Pipe77
+    3300020: Pipe78
+    3300022: Pipe79
+    3300024: Rotor37
+    3300026: Rotor4
+    3300028: //RootNode
+    3300030: Saw_Hand1
+    3300032: Saw_Hand2
+    3300034: Saw_Plate3
+    3300036: Saw_Plate8
+    3300038: Saw_Plate9
+    4300000: SA_01_E
+    4300002: Pipe153
+    4300004: Pipe154
+    4300006: Pipe155
+    4300008: Pipe156
+    4300010: Pipe157
+    4300012: Pipe158
+    4300014: Saw_Hand2
+    4300016: Rotor4
+    4300018: Saw_Plate9
+    4300020: Saw_Plate8
+    4300022: Pipe160
+    4300024: Pipe75
+    4300026: Pipe76
+    4300028: Pipe77
+    4300030: Pipe78
+    4300032: Pipe79
+    4300034: Saw_Hand1
+    4300036: Rotor37
+    4300038: Saw_Plate3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: c903bf34011c341268e4969996d59a0b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: coil1
+    100002: coil1 1
+    100004: coil1 2
+    100006: coil1 3
+    100008: coil1 4
+    100010: coil2
+    100012: coil2 1
+    100014: coil2 2
+    100016: coil2 3
+    100018: coil2 4
+    100020: coil3
+    100022: coil3 1
+    100024: coil3 2
+    100026: coil3 3
+    100028: coil3 4
+    100030: Discharger1
+    100032: Discharger1 1
+    100034: Discharger1 2
+    100036: Discharger1 3
+    100038: Discharger1 4
+    100040: //RootNode
+    100042: polySurface142
+    100044: polySurface142 1
+    100046: polySurface142 2
+    100048: polySurface143
+    100050: polySurface143 1
+    100052: TESLA_COIL6
+    100054: TESLA_COIL7
+    100056: TESLA_COIL8
+    100058: coil_1
+    100060: coil_2
+    100062: coil_3
+    100064: coil_4
+    100066: coil_5
+    100068: polySurface179
+    100070: polySurface180
+    100072: polySurface181
+    100074: polySurface182
+    100076: polySurface183
+    100078: TESLA_COIL9
+    100080: coil_16
+    100082: coil_17
+    100084: coil_18
+    100086: coil_19
+    100088: coil_20
+    100090: gun_10
+    100092: gun_6
+    100094: gun_7
+    100096: gun_8
+    100098: gun_9
+    400000: coil1
+    400002: coil1 1
+    400004: coil1 2
+    400006: coil1 3
+    400008: coil1 4
+    400010: coil2
+    400012: coil2 1
+    400014: coil2 2
+    400016: coil2 3
+    400018: coil2 4
+    400020: coil3
+    400022: coil3 1
+    400024: coil3 2
+    400026: coil3 3
+    400028: coil3 4
+    400030: Discharger1
+    400032: Discharger1 1
+    400034: Discharger1 2
+    400036: Discharger1 3
+    400038: Discharger1 4
+    400040: //RootNode
+    400042: polySurface142
+    400044: polySurface142 1
+    400046: polySurface142 2
+    400048: polySurface143
+    400050: polySurface143 1
+    400052: TESLA_COIL6
+    400054: TESLA_COIL7
+    400056: TESLA_COIL8
+    400058: coil_1
+    400060: coil_2
+    400062: coil_3
+    400064: coil_4
+    400066: coil_5
+    400068: polySurface179
+    400070: polySurface180
+    400072: polySurface181
+    400074: polySurface182
+    400076: polySurface183
+    400078: TESLA_COIL9
+    400080: coil_16
+    400082: coil_17
+    400084: coil_18
+    400086: coil_19
+    400088: coil_20
+    400090: gun_10
+    400092: gun_6
+    400094: gun_7
+    400096: gun_8
+    400098: gun_9
+    2300000: coil1
+    2300002: coil1 1
+    2300004: coil1 2
+    2300006: coil1 3
+    2300008: coil1 4
+    2300010: coil2
+    2300012: coil2 1
+    2300014: coil2 2
+    2300016: coil2 3
+    2300018: coil2 4
+    2300020: coil3
+    2300022: coil3 1
+    2300024: coil3 2
+    2300026: coil3 3
+    2300028: coil3 4
+    2300030: Discharger1
+    2300032: Discharger1 1
+    2300034: Discharger1 2
+    2300036: Discharger1 3
+    2300038: Discharger1 4
+    2300040: //RootNode
+    2300042: polySurface142
+    2300044: polySurface142 1
+    2300046: polySurface142 2
+    2300048: polySurface143
+    2300050: polySurface143 1
+    2300052: TESLA_COIL6
+    2300054: TESLA_COIL7
+    2300056: TESLA_COIL8
+    2300058: coil_1
+    2300060: coil_2
+    2300062: coil_3
+    2300064: coil_4
+    2300066: coil_5
+    2300068: polySurface180
+    2300070: polySurface181
+    2300072: polySurface182
+    2300074: polySurface183
+    2300076: TESLA_COIL9
+    2300078: coil_16
+    2300080: coil_17
+    2300082: coil_18
+    2300084: coil_19
+    2300086: coil_20
+    2300088: gun_10
+    2300090: gun_6
+    2300092: gun_7
+    2300094: gun_8
+    2300096: gun_9
+    3300000: coil1
+    3300002: coil1 1
+    3300004: coil1 2
+    3300006: coil1 3
+    3300008: coil1 4
+    3300010: coil2
+    3300012: coil2 1
+    3300014: coil2 2
+    3300016: coil2 3
+    3300018: coil2 4
+    3300020: coil3
+    3300022: coil3 1
+    3300024: coil3 2
+    3300026: coil3 3
+    3300028: coil3 4
+    3300030: Discharger1
+    3300032: Discharger1 1
+    3300034: Discharger1 2
+    3300036: Discharger1 3
+    3300038: Discharger1 4
+    3300040: //RootNode
+    3300042: polySurface142
+    3300044: polySurface142 1
+    3300046: polySurface142 2
+    3300048: polySurface143
+    3300050: polySurface143 1
+    3300052: TESLA_COIL6
+    3300054: TESLA_COIL7
+    3300056: TESLA_COIL8
+    3300058: coil_1
+    3300060: coil_2
+    3300062: coil_3
+    3300064: coil_4
+    3300066: coil_5
+    3300068: polySurface180
+    3300070: polySurface181
+    3300072: polySurface182
+    3300074: polySurface183
+    3300076: TESLA_COIL9
+    3300078: coil_16
+    3300080: coil_17
+    3300082: coil_18
+    3300084: coil_19
+    3300086: coil_20
+    3300088: gun_10
+    3300090: gun_6
+    3300092: gun_7
+    3300094: gun_8
+    3300096: gun_9
+    4300000: EL_01_E
+    4300002: TESLA_COIL7
+    4300004: polySurface142
+    4300006: Discharger1
+    4300008: coil3
+    4300010: coil2
+    4300012: coil1
+    4300014: polySurface143
+    4300016: Discharger1
+    4300018: coil3
+    4300020: coil2
+    4300022: coil1
+    4300024: TESLA_COIL8
+    4300026: polySurface142
+    4300028: Discharger1
+    4300030: coil3
+    4300032: coil2
+    4300034: coil1
+    4300036: TESLA_COIL6
+    4300038: polySurface142
+    4300040: Discharger1
+    4300042: coil3
+    4300044: coil2
+    4300046: coil1
+    4300048: polySurface143
+    4300050: Discharger1
+    4300052: coil3
+    4300054: coil2
+    4300056: coil1
+    4300058: coil_1
+    4300060: coil_2
+    4300062: coil_3
+    4300064: coil_4
+    4300066: coil_5
+    4300068: EL_01_A
+    4300070: TESLA_COIL9
+    4300072: polySurface180
+    4300074: polySurface181
+    4300076: polySurface182
+    4300078: polySurface183
+    4300080: gun_8
+    4300082: gun_9
+    4300084: coil_20
+    4300086: coil_19
+    4300088: coil_18
+    4300090: gun_7
+    4300092: gun_6
+    4300094: gun_10
+    4300096: coil_17
+    4300098: coil_16
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

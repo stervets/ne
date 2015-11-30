@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 286b9a6d5b04846018dd419b13f9c9a3
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel10
+    100004: Barrel11
+    100006: Barrel12
+    100008: Barrel13
+    100010: Barrel14
+    100012: Barrel15
+    100014: BODY_AC_01_E
+    100016: cannons_6
+    100018: Gun11
+    100020: Gun12
+    100022: Gun13
+    100024: Gun14
+    100026: Gun15
+    100028: Gun16
+    400000: //RootNode
+    400002: Barrel10
+    400004: Barrel11
+    400006: Barrel12
+    400008: Barrel13
+    400010: Barrel14
+    400012: Barrel15
+    400014: BODY_AC_01_E
+    400016: cannons_6
+    400018: Gun11
+    400020: Gun12
+    400022: Gun13
+    400024: Gun14
+    400026: Gun15
+    400028: Gun16
+    2300000: Barrel10
+    2300002: Barrel11
+    2300004: Barrel12
+    2300006: Barrel13
+    2300008: Barrel14
+    2300010: Barrel15
+    2300012: BODY_AC_01_E
+    2300014: Gun11
+    2300016: Gun12
+    2300018: Gun13
+    2300020: Gun14
+    2300022: Gun15
+    2300024: Gun16
+    3300000: Barrel10
+    3300002: Barrel11
+    3300004: Barrel12
+    3300006: Barrel13
+    3300008: Barrel14
+    3300010: Barrel15
+    3300012: BODY_AC_01_E
+    3300014: Gun11
+    3300016: Gun12
+    3300018: Gun13
+    3300020: Gun14
+    3300022: Gun15
+    3300024: Gun16
+    4300000: BODY_AC_01_E
+    4300002: Gun13
+    4300004: Barrel10
+    4300006: Gun12
+    4300008: Barrel11
+    4300010: Gun11
+    4300012: Barrel12
+    4300014: Gun14
+    4300016: Barrel13
+    4300018: Gun15
+    4300020: Barrel14
+    4300022: Gun16
+    4300024: Barrel15
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

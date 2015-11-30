@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 52b2d7c43965542af98ca62b40037dd1
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pipe153
+    100004: Pipe154
+    100006: Pipe154 1
+    100008: Pipe155
+    100010: Pipe155 1
+    100012: Pipe156
+    100014: Pipe156 1
+    100016: Pipe157
+    100018: Pipe157 1
+    100020: Pipe158
+    100022: Pipe158 1
+    100024: Pipe161
+    100026: polySurface135
+    100028: polySurface135 1
+    100030: Rotor33
+    100032: Rotor34
+    400000: //RootNode
+    400002: Pipe153
+    400004: Pipe154
+    400006: Pipe154 1
+    400008: Pipe155
+    400010: Pipe155 1
+    400012: Pipe156
+    400014: Pipe156 1
+    400016: Pipe157
+    400018: Pipe157 1
+    400020: Pipe158
+    400022: Pipe158 1
+    400024: Pipe161
+    400026: polySurface135
+    400028: polySurface135 1
+    400030: Rotor33
+    400032: Rotor34
+    2300000: //RootNode
+    2300002: Pipe153
+    2300004: Pipe154
+    2300006: Pipe154 1
+    2300008: Pipe155
+    2300010: Pipe155 1
+    2300012: Pipe156
+    2300014: Pipe156 1
+    2300016: Pipe157
+    2300018: Pipe157 1
+    2300020: Pipe158
+    2300022: Pipe158 1
+    2300024: Pipe161
+    2300026: polySurface135
+    2300028: polySurface135 1
+    2300030: Rotor33
+    2300032: Rotor34
+    3300000: //RootNode
+    3300002: Pipe153
+    3300004: Pipe154
+    3300006: Pipe154 1
+    3300008: Pipe155
+    3300010: Pipe155 1
+    3300012: Pipe156
+    3300014: Pipe156 1
+    3300016: Pipe157
+    3300018: Pipe157 1
+    3300020: Pipe158
+    3300022: Pipe158 1
+    3300024: Pipe161
+    3300026: polySurface135
+    3300028: polySurface135 1
+    3300030: Rotor33
+    3300032: Rotor34
+    4300000: DR_01_E1
+    4300002: Pipe161
+    4300004: Pipe154
+    4300006: Pipe155
+    4300008: Pipe156
+    4300010: Pipe157
+    4300012: Pipe158
+    4300014: Rotor33
+    4300016: polySurface135
+    4300018: Pipe153
+    4300020: Pipe154
+    4300022: Pipe155
+    4300024: Pipe156
+    4300026: Pipe157
+    4300028: Pipe158
+    4300030: Rotor34
+    4300032: polySurface135
+    4300034: DR_01_E
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

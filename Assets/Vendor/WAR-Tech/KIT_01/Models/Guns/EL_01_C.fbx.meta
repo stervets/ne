@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 96a88d306882b406aa20057a3f07ace1
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: coil1
+    100002: coil1 1
+    100004: coil1 2
+    100006: coil2
+    100008: coil2 1
+    100010: coil2 2
+    100012: coil3
+    100014: coil3 1
+    100016: coil3 2
+    100018: Discharger1
+    100020: Discharger1 1
+    100022: Discharger1 2
+    100024: //RootNode
+    100026: polySurface142
+    100028: polySurface143
+    100030: polySurface144
+    100032: TESLA_COIL2
+    100034: TESLA_COIL3
+    100036: coil_12
+    100038: coil_13
+    100040: coil_14
+    100042: coil_27
+    100044: coil_28
+    100046: coil_29
+    100048: gun_17
+    100050: gun_18
+    100052: gun_19
+    400000: coil1
+    400002: coil1 1
+    400004: coil1 2
+    400006: coil2
+    400008: coil2 1
+    400010: coil2 2
+    400012: coil3
+    400014: coil3 1
+    400016: coil3 2
+    400018: Discharger1
+    400020: Discharger1 1
+    400022: Discharger1 2
+    400024: //RootNode
+    400026: polySurface142
+    400028: polySurface143
+    400030: polySurface144
+    400032: TESLA_COIL2
+    400034: TESLA_COIL3
+    400036: coil_12
+    400038: coil_13
+    400040: coil_14
+    400042: coil_27
+    400044: coil_28
+    400046: coil_29
+    400048: gun_17
+    400050: gun_18
+    400052: gun_19
+    2300000: coil1
+    2300002: coil1 1
+    2300004: coil1 2
+    2300006: coil2
+    2300008: coil2 1
+    2300010: coil2 2
+    2300012: coil3
+    2300014: coil3 1
+    2300016: coil3 2
+    2300018: Discharger1
+    2300020: Discharger1 1
+    2300022: Discharger1 2
+    2300024: //RootNode
+    2300026: polySurface142
+    2300028: polySurface143
+    2300030: polySurface144
+    2300032: TESLA_COIL2
+    2300034: TESLA_COIL3
+    2300036: coil_12
+    2300038: coil_13
+    2300040: coil_14
+    2300042: coil_27
+    2300044: coil_28
+    2300046: coil_29
+    2300048: gun_17
+    2300050: gun_18
+    2300052: gun_19
+    3300000: coil1
+    3300002: coil1 1
+    3300004: coil1 2
+    3300006: coil2
+    3300008: coil2 1
+    3300010: coil2 2
+    3300012: coil3
+    3300014: coil3 1
+    3300016: coil3 2
+    3300018: Discharger1
+    3300020: Discharger1 1
+    3300022: Discharger1 2
+    3300024: //RootNode
+    3300026: polySurface142
+    3300028: polySurface143
+    3300030: polySurface144
+    3300032: TESLA_COIL2
+    3300034: TESLA_COIL3
+    3300036: coil_12
+    3300038: coil_13
+    3300040: coil_14
+    3300042: coil_27
+    3300044: coil_28
+    3300046: coil_29
+    3300048: gun_17
+    3300050: gun_18
+    3300052: gun_19
+    4300000: EL_01_C
+    4300002: TESLA_COIL3
+    4300004: polySurface144
+    4300006: Discharger1
+    4300008: coil3
+    4300010: coil2
+    4300012: coil1
+    4300014: TESLA_COIL2
+    4300016: polySurface142
+    4300018: Discharger1
+    4300020: coil3
+    4300022: coil2
+    4300024: coil1
+    4300026: polySurface143
+    4300028: Discharger1
+    4300030: coil3
+    4300032: coil2
+    4300034: coil1
+    4300036: coil_12
+    4300038: coil_13
+    4300040: coil_14
+    4300042: coil_27
+    4300044: gun_18
+    4300046: gun_17
+    4300048: coil_28
+    4300050: gun_19
+    4300052: coil_29
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

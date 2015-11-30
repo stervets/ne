@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: d11878f566d0c458f851d5d8bfb4d0f4
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Pipe118
+    100002: Pipe119
+    100004: Pipe120
+    100006: Pipe121
+    100008: Pipe122
+    100010: Pipe126
+    100012: Pipe127
+    100014: Pipe128
+    100016: Pipe129
+    100018: Pipe130
+    100020: Rotor6
+    100022: Rotor7
+    100024: //RootNode
+    100026: Saw_Hand4
+    100028: Saw_Hand5
+    100030: Saw_Plate3
+    100032: Saw_Plate4
+    400000: Pipe118
+    400002: Pipe119
+    400004: Pipe120
+    400006: Pipe121
+    400008: Pipe122
+    400010: Pipe126
+    400012: Pipe127
+    400014: Pipe128
+    400016: Pipe129
+    400018: Pipe130
+    400020: Rotor6
+    400022: Rotor7
+    400024: //RootNode
+    400026: Saw_Hand4
+    400028: Saw_Hand5
+    400030: Saw_Plate3
+    400032: Saw_Plate4
+    2300000: Pipe118
+    2300002: Pipe119
+    2300004: Pipe120
+    2300006: Pipe121
+    2300008: Pipe122
+    2300010: Pipe126
+    2300012: Pipe127
+    2300014: Pipe128
+    2300016: Pipe129
+    2300018: Pipe130
+    2300020: Rotor6
+    2300022: Rotor7
+    2300024: //RootNode
+    2300026: Saw_Hand4
+    2300028: Saw_Hand5
+    2300030: Saw_Plate3
+    2300032: Saw_Plate4
+    3300000: Pipe118
+    3300002: Pipe119
+    3300004: Pipe120
+    3300006: Pipe121
+    3300008: Pipe122
+    3300010: Pipe126
+    3300012: Pipe127
+    3300014: Pipe128
+    3300016: Pipe129
+    3300018: Pipe130
+    3300020: Rotor6
+    3300022: Rotor7
+    3300024: //RootNode
+    3300026: Saw_Hand4
+    3300028: Saw_Hand5
+    3300030: Saw_Plate3
+    3300032: Saw_Plate4
+    4300000: SA_01_C
+    4300002: Pipe118
+    4300004: Pipe119
+    4300006: Pipe120
+    4300008: Pipe121
+    4300010: Pipe122
+    4300012: Saw_Hand4
+    4300014: Rotor6
+    4300016: Saw_Plate3
+    4300018: Pipe126
+    4300020: Pipe127
+    4300022: Pipe128
+    4300024: Pipe129
+    4300026: Pipe130
+    4300028: Saw_Hand5
+    4300030: Rotor7
+    4300032: Saw_Plate4
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

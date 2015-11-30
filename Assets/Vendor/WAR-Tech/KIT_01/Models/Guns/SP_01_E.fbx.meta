@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 3f6b0c2147f8f4a1abfbf84aa682d2f9
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Pipe159
+    100002: Pipe74
+    100004: Pipe75
+    100006: Pipe75 1
+    100008: Pipe76
+    100010: Pipe76 1
+    100012: Pipe77
+    100014: Pipe77 1
+    100016: Pipe78
+    100018: Pipe78 1
+    100020: Pipe79
+    100022: Pipe79 1
+    100024: //RootNode
+    100026: Spike39
+    100028: Spike39 1
+    100030: Spike40
+    100032: Spike40 1
+    100034: Spike41
+    100036: Spike41 1
+    100038: Spike42
+    100040: Spike42 1
+    100042: Spike43
+    100044: Spike43 1
+    100046: Spike44
+    100048: Spike44 1
+    100050: Spike45
+    100052: Spike45 1
+    100054: Spike46
+    100056: Spike46 1
+    100058: Spike47
+    100060: Spike47 1
+    100062: Spike48
+    100064: Spike48 1
+    100066: Spike49
+    100068: Spike49 1
+    100070: Spike50
+    100072: Spike50 1
+    100074: Spike_Platform1
+    100076: Spike_Platform9
+    400000: Pipe159
+    400002: Pipe74
+    400004: Pipe75
+    400006: Pipe75 1
+    400008: Pipe76
+    400010: Pipe76 1
+    400012: Pipe77
+    400014: Pipe77 1
+    400016: Pipe78
+    400018: Pipe78 1
+    400020: Pipe79
+    400022: Pipe79 1
+    400024: //RootNode
+    400026: Spike39
+    400028: Spike39 1
+    400030: Spike40
+    400032: Spike40 1
+    400034: Spike41
+    400036: Spike41 1
+    400038: Spike42
+    400040: Spike42 1
+    400042: Spike43
+    400044: Spike43 1
+    400046: Spike44
+    400048: Spike44 1
+    400050: Spike45
+    400052: Spike45 1
+    400054: Spike46
+    400056: Spike46 1
+    400058: Spike47
+    400060: Spike47 1
+    400062: Spike48
+    400064: Spike48 1
+    400066: Spike49
+    400068: Spike49 1
+    400070: Spike50
+    400072: Spike50 1
+    400074: Spike_Platform1
+    400076: Spike_Platform9
+    2300000: Pipe159
+    2300002: Pipe74
+    2300004: Pipe75
+    2300006: Pipe75 1
+    2300008: Pipe76
+    2300010: Pipe76 1
+    2300012: Pipe77
+    2300014: Pipe77 1
+    2300016: Pipe78
+    2300018: Pipe78 1
+    2300020: Pipe79
+    2300022: Pipe79 1
+    2300024: //RootNode
+    2300026: Spike39
+    2300028: Spike39 1
+    2300030: Spike40
+    2300032: Spike40 1
+    2300034: Spike41
+    2300036: Spike41 1
+    2300038: Spike42
+    2300040: Spike42 1
+    2300042: Spike43
+    2300044: Spike43 1
+    2300046: Spike44
+    2300048: Spike44 1
+    2300050: Spike45
+    2300052: Spike45 1
+    2300054: Spike46
+    2300056: Spike46 1
+    2300058: Spike47
+    2300060: Spike47 1
+    2300062: Spike48
+    2300064: Spike48 1
+    2300066: Spike49
+    2300068: Spike49 1
+    2300070: Spike50
+    2300072: Spike50 1
+    2300074: Spike_Platform1
+    2300076: Spike_Platform9
+    3300000: Pipe159
+    3300002: Pipe74
+    3300004: Pipe75
+    3300006: Pipe75 1
+    3300008: Pipe76
+    3300010: Pipe76 1
+    3300012: Pipe77
+    3300014: Pipe77 1
+    3300016: Pipe78
+    3300018: Pipe78 1
+    3300020: Pipe79
+    3300022: Pipe79 1
+    3300024: //RootNode
+    3300026: Spike39
+    3300028: Spike39 1
+    3300030: Spike40
+    3300032: Spike40 1
+    3300034: Spike41
+    3300036: Spike41 1
+    3300038: Spike42
+    3300040: Spike42 1
+    3300042: Spike43
+    3300044: Spike43 1
+    3300046: Spike44
+    3300048: Spike44 1
+    3300050: Spike45
+    3300052: Spike45 1
+    3300054: Spike46
+    3300056: Spike46 1
+    3300058: Spike47
+    3300060: Spike47 1
+    3300062: Spike48
+    3300064: Spike48 1
+    3300066: Spike49
+    3300068: Spike49 1
+    3300070: Spike50
+    3300072: Spike50 1
+    3300074: Spike_Platform1
+    3300076: Spike_Platform9
+    4300000: SP_01_E
+    4300002: Pipe74
+    4300004: Pipe75
+    4300006: Pipe76
+    4300008: Pipe77
+    4300010: Pipe78
+    4300012: Pipe79
+    4300014: Spike_Platform9
+    4300016: Spike39
+    4300018: Spike40
+    4300020: Spike41
+    4300022: Spike42
+    4300024: Spike43
+    4300026: Spike44
+    4300028: Spike45
+    4300030: Spike46
+    4300032: Spike47
+    4300034: Spike48
+    4300036: Spike49
+    4300038: Spike50
+    4300040: Pipe159
+    4300042: Pipe75
+    4300044: Pipe76
+    4300046: Pipe77
+    4300048: Pipe78
+    4300050: Pipe79
+    4300052: Spike_Platform1
+    4300054: Spike39
+    4300056: Spike40
+    4300058: Spike41
+    4300060: Spike42
+    4300062: Spike43
+    4300064: Spike44
+    4300066: Spike45
+    4300068: Spike46
+    4300070: Spike47
+    4300072: Spike48
+    4300074: Spike49
+    4300076: Spike50
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

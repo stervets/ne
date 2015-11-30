@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: bd7780e62d5c74b60beaea1ecafd3bdf
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _Body
+    100002: _Camera
+    100004: _Glass
+    100006: //RootNode
+    100008: Laser1
+    100010: Light2
+    100012: Light3
+    100014: Neck
+    100016: Rotor_Left
+    100018: ROTOR_MAIN
+    100020: Rotor_Right
+    100022: Tech
+    100024: COCKPIT_01_A
+    100026: Controlers_4
+    100028: Joistick_2
+    100030: Seat_Bottom1
+    400000: _Body
+    400002: _Camera
+    400004: _Glass
+    400006: //RootNode
+    400008: Laser1
+    400010: Light2
+    400012: Light3
+    400014: Neck
+    400016: Rotor_Left
+    400018: ROTOR_MAIN
+    400020: Rotor_Right
+    400022: Tech
+    400024: COCKPIT_01_A
+    400026: Controlers_4
+    400028: Joistick_2
+    400030: Seat_Bottom1
+    2300000: _Body
+    2300002: _Camera
+    2300004: _Glass
+    2300006: //RootNode
+    2300008: Laser1
+    2300010: Light2
+    2300012: Light3
+    2300014: Neck
+    2300016: Rotor_Left
+    2300018: ROTOR_MAIN
+    2300020: Rotor_Right
+    2300022: Tech
+    2300024: COCKPIT_01_A
+    2300026: Controlers_4
+    2300028: Joistick_2
+    2300030: Seat_Bottom1
+    3300000: _Body
+    3300002: _Camera
+    3300004: _Glass
+    3300006: //RootNode
+    3300008: Laser1
+    3300010: Light2
+    3300012: Light3
+    3300014: Neck
+    3300016: Rotor_Left
+    3300018: ROTOR_MAIN
+    3300020: Rotor_Right
+    3300022: Tech
+    3300024: COCKPIT_01_A
+    3300026: Controlers_4
+    3300028: Joistick_2
+    3300030: Seat_Bottom1
+    4300000: COCKPIT_01_A
+    4300002: _Body
+    4300004: _Glass
+    4300006: Tech
+    4300008: Laser1
+    4300010: _Camera
+    4300012: ROTOR_MAIN
+    4300014: Rotor_Left
+    4300016: Rotor_Right
+    4300018: Light2
+    4300020: Light3
+    4300022: Neck
+    4300024: Seat_Bottom1
+    4300026: Controlers_4
+    4300028: Joistick_2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

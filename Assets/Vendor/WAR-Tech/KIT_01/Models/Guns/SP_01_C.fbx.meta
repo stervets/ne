@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 0626c6f7a83374f9ebf64709d221658f
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Pipe32
+    100002: Pipe33
+    100004: Pipe34
+    100006: Pipe35
+    100008: Pipe36
+    100010: Pipe50
+    100012: Pipe51
+    100014: Pipe52
+    100016: Pipe53
+    100018: Pipe54
+    100020: //RootNode
+    100022: Spike10
+    100024: Spike10 1
+    100026: Spike5
+    100028: Spike5 1
+    100030: Spike6
+    100032: Spike6 1
+    100034: Spike7
+    100036: Spike7 1
+    100038: Spike8
+    100040: Spike8 1
+    100042: Spike9
+    100044: Spike9 1
+    100046: Spike_Platform7
+    100048: Spike_Platform8
+    400000: Pipe32
+    400002: Pipe33
+    400004: Pipe34
+    400006: Pipe35
+    400008: Pipe36
+    400010: Pipe50
+    400012: Pipe51
+    400014: Pipe52
+    400016: Pipe53
+    400018: Pipe54
+    400020: //RootNode
+    400022: Spike10
+    400024: Spike10 1
+    400026: Spike5
+    400028: Spike5 1
+    400030: Spike6
+    400032: Spike6 1
+    400034: Spike7
+    400036: Spike7 1
+    400038: Spike8
+    400040: Spike8 1
+    400042: Spike9
+    400044: Spike9 1
+    400046: Spike_Platform7
+    400048: Spike_Platform8
+    2300000: Pipe32
+    2300002: Pipe33
+    2300004: Pipe34
+    2300006: Pipe35
+    2300008: Pipe36
+    2300010: Pipe50
+    2300012: Pipe51
+    2300014: Pipe52
+    2300016: Pipe53
+    2300018: Pipe54
+    2300020: //RootNode
+    2300022: Spike10
+    2300024: Spike10 1
+    2300026: Spike5
+    2300028: Spike5 1
+    2300030: Spike6
+    2300032: Spike6 1
+    2300034: Spike7
+    2300036: Spike7 1
+    2300038: Spike8
+    2300040: Spike8 1
+    2300042: Spike9
+    2300044: Spike9 1
+    2300046: Spike_Platform7
+    2300048: Spike_Platform8
+    3300000: Pipe32
+    3300002: Pipe33
+    3300004: Pipe34
+    3300006: Pipe35
+    3300008: Pipe36
+    3300010: Pipe50
+    3300012: Pipe51
+    3300014: Pipe52
+    3300016: Pipe53
+    3300018: Pipe54
+    3300020: //RootNode
+    3300022: Spike10
+    3300024: Spike10 1
+    3300026: Spike5
+    3300028: Spike5 1
+    3300030: Spike6
+    3300032: Spike6 1
+    3300034: Spike7
+    3300036: Spike7 1
+    3300038: Spike8
+    3300040: Spike8 1
+    3300042: Spike9
+    3300044: Spike9 1
+    3300046: Spike_Platform7
+    3300048: Spike_Platform8
+    4300000: SP_01_C
+    4300002: Pipe32
+    4300004: Pipe33
+    4300006: Pipe34
+    4300008: Pipe35
+    4300010: Pipe36
+    4300012: Spike_Platform8
+    4300014: Spike5
+    4300016: Spike6
+    4300018: Spike7
+    4300020: Spike8
+    4300022: Spike9
+    4300024: Spike10
+    4300026: Pipe50
+    4300028: Pipe51
+    4300030: Pipe52
+    4300032: Pipe53
+    4300034: Pipe54
+    4300036: Spike_Platform7
+    4300038: Spike5
+    4300040: Spike6
+    4300042: Spike7
+    4300044: Spike8
+    4300046: Spike9
+    4300048: Spike10
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

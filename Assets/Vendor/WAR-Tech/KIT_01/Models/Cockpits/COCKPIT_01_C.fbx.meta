@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 465e9d83c141e4306b739c7dbeb1e9d0
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Camera
+    100004: //RootNode
+    100006: Controlers_3
+    100008: Controlers_4
+    100010: Joistick_2
+    100012: Joistick_2 1
+    100014: Laser1
+    100016: Light
+    100018: Light1
+    100020: Neck
+    100022: pCube588
+    100024: Rotor_Left
+    100026: ROTOR_MAIN
+    100028: Rotor_Right
+    100030: Tech
+    100032: Body1
+    100034: Camera1
+    100036: Controlers_5
+    100038: Controlers_6
+    100040: Joistick_3
+    100042: Joistick_4
+    100044: Laser2
+    100046: Light4
+    100048: Light5
+    100050: Neck1
+    100052: pCube604
+    100054: Rotor_Left1
+    100056: ROTOR_MAIN2
+    100058: Rotor_Right1
+    100060: Seat_Bottom2
+    100062: Tech1
+    100064: _Glass5
+    100066: Glass_Frame
+    400000: Body
+    400002: Camera
+    400004: //RootNode
+    400006: Controlers_3
+    400008: Controlers_4
+    400010: Joistick_2
+    400012: Joistick_2 1
+    400014: Laser1
+    400016: Light
+    400018: Light1
+    400020: Neck
+    400022: pCube588
+    400024: Rotor_Left
+    400026: ROTOR_MAIN
+    400028: Rotor_Right
+    400030: Tech
+    400032: Body1
+    400034: Camera1
+    400036: Controlers_5
+    400038: Controlers_6
+    400040: Joistick_3
+    400042: Joistick_4
+    400044: Laser2
+    400046: Light4
+    400048: Light5
+    400050: Neck1
+    400052: pCube604
+    400054: Rotor_Left1
+    400056: ROTOR_MAIN2
+    400058: Rotor_Right1
+    400060: Seat_Bottom2
+    400062: Tech1
+    400064: _Glass5
+    400066: Glass_Frame
+    2300000: Body
+    2300002: Camera
+    2300004: //RootNode
+    2300006: Controlers_3
+    2300008: Controlers_4
+    2300010: Joistick_2
+    2300012: Joistick_2 1
+    2300014: Laser1
+    2300016: Light
+    2300018: Light1
+    2300020: Neck
+    2300022: pCube588
+    2300024: Rotor_Left
+    2300026: ROTOR_MAIN
+    2300028: Rotor_Right
+    2300030: Tech
+    2300032: Body1
+    2300034: Camera1
+    2300036: Controlers_5
+    2300038: Controlers_6
+    2300040: Joistick_3
+    2300042: Joistick_4
+    2300044: Laser2
+    2300046: Light4
+    2300048: Light5
+    2300050: Neck1
+    2300052: pCube604
+    2300054: Rotor_Left1
+    2300056: ROTOR_MAIN2
+    2300058: Rotor_Right1
+    2300060: Seat_Bottom2
+    2300062: Tech1
+    2300064: _Glass5
+    2300066: Glass_Frame
+    3300000: Body
+    3300002: Camera
+    3300004: //RootNode
+    3300006: Controlers_3
+    3300008: Controlers_4
+    3300010: Joistick_2
+    3300012: Joistick_2 1
+    3300014: Laser1
+    3300016: Light
+    3300018: Light1
+    3300020: Neck
+    3300022: pCube588
+    3300024: Rotor_Left
+    3300026: ROTOR_MAIN
+    3300028: Rotor_Right
+    3300030: Tech
+    3300032: Body1
+    3300034: Camera1
+    3300036: Controlers_5
+    3300038: Controlers_6
+    3300040: Joistick_3
+    3300042: Joistick_4
+    3300044: Laser2
+    3300046: Light4
+    3300048: Light5
+    3300050: Neck1
+    3300052: pCube604
+    3300054: Rotor_Left1
+    3300056: ROTOR_MAIN2
+    3300058: Rotor_Right1
+    3300060: Seat_Bottom2
+    3300062: Tech1
+    3300064: _Glass5
+    3300066: Glass_Frame
+    4300000: COCKPIT_01_C
+    4300002: Body
+    4300004: Tech
+    4300006: Laser1
+    4300008: Camera
+    4300010: ROTOR_MAIN
+    4300012: Rotor_Left
+    4300014: Rotor_Right
+    4300016: pCube588
+    4300018: Light
+    4300020: Light1
+    4300022: Controlers_3
+    4300024: Joistick_2
+    4300026: Controlers_4
+    4300028: Joistick_2
+    4300030: Neck
+    4300032: COCKPIT_01_B1
+    4300034: Body1
+    4300036: Tech1
+    4300038: Laser2
+    4300040: Camera1
+    4300042: ROTOR_MAIN2
+    4300044: Rotor_Left1
+    4300046: Rotor_Right1
+    4300048: pCube604
+    4300050: Light4
+    4300052: Light5
+    4300054: Controlers_5
+    4300056: Joistick_3
+    4300058: Controlers_6
+    4300060: Joistick_4
+    4300062: Seat_Bottom2
+    4300064: Neck1
+    4300066: _Glass5
+    4300068: COCKPIT_01_c
+    4300070: Glass_Frame
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

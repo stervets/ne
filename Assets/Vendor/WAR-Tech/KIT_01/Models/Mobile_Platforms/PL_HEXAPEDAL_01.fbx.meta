@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: a58b8ab9df2874bcd8e84ab71c1c7ee8
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: leg10
+    100004: leg5
+    100006: leg6
+    100008: leg7
+    100010: leg8
+    100012: leg9
+    100014: Mech_Leg10
+    100016: Mech_Leg11
+    100018: Mech_Leg12
+    100020: Mech_Leg13
+    100022: Mech_Leg14
+    100024: Mech_Leg9
+    100026: //RootNode
+    100028: rotor10
+    100030: rotor11
+    100032: rotor12
+    100034: rotor13
+    100036: rotor14
+    100038: rotor15
+    100040: rotor16
+    100042: rotor17
+    100044: rotor18
+    100046: rotor19
+    100048: rotor20
+    100050: rotor9
+    400000: body
+    400002: leg10
+    400004: leg5
+    400006: leg6
+    400008: leg7
+    400010: leg8
+    400012: leg9
+    400014: Mech_Leg10
+    400016: Mech_Leg11
+    400018: Mech_Leg12
+    400020: Mech_Leg13
+    400022: Mech_Leg14
+    400024: Mech_Leg9
+    400026: //RootNode
+    400028: rotor10
+    400030: rotor11
+    400032: rotor12
+    400034: rotor13
+    400036: rotor14
+    400038: rotor15
+    400040: rotor16
+    400042: rotor17
+    400044: rotor18
+    400046: rotor19
+    400048: rotor20
+    400050: rotor9
+    2300000: body
+    2300002: leg10
+    2300004: leg5
+    2300006: leg6
+    2300008: leg7
+    2300010: leg8
+    2300012: leg9
+    2300014: Mech_Leg10
+    2300016: Mech_Leg11
+    2300018: Mech_Leg12
+    2300020: Mech_Leg13
+    2300022: Mech_Leg14
+    2300024: Mech_Leg9
+    2300026: //RootNode
+    2300028: rotor10
+    2300030: rotor11
+    2300032: rotor12
+    2300034: rotor13
+    2300036: rotor14
+    2300038: rotor15
+    2300040: rotor16
+    2300042: rotor17
+    2300044: rotor18
+    2300046: rotor19
+    2300048: rotor20
+    2300050: rotor9
+    3300000: body
+    3300002: leg10
+    3300004: leg5
+    3300006: leg6
+    3300008: leg7
+    3300010: leg8
+    3300012: leg9
+    3300014: Mech_Leg10
+    3300016: Mech_Leg11
+    3300018: Mech_Leg12
+    3300020: Mech_Leg13
+    3300022: Mech_Leg14
+    3300024: Mech_Leg9
+    3300026: //RootNode
+    3300028: rotor10
+    3300030: rotor11
+    3300032: rotor12
+    3300034: rotor13
+    3300036: rotor14
+    3300038: rotor15
+    3300040: rotor16
+    3300042: rotor17
+    3300044: rotor18
+    3300046: rotor19
+    3300048: rotor20
+    3300050: rotor9
+    4300000: PL_HEXAPEDAL_01
+    4300002: body
+    4300004: Mech_Leg9
+    4300006: rotor9
+    4300008: rotor10
+    4300010: leg5
+    4300012: Mech_Leg10
+    4300014: rotor11
+    4300016: rotor12
+    4300018: leg6
+    4300020: Mech_Leg11
+    4300022: rotor13
+    4300024: rotor14
+    4300026: leg7
+    4300028: Mech_Leg12
+    4300030: rotor15
+    4300032: rotor16
+    4300034: leg8
+    4300036: Mech_Leg13
+    4300038: rotor17
+    4300040: rotor18
+    4300042: leg9
+    4300044: Mech_Leg14
+    4300046: rotor19
+    4300048: rotor20
+    4300050: leg10
+    7400000: Run
+    7400002: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 12
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1.10000002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

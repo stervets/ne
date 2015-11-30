@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 9a788a769559941c8b5fd2a7e86b72ea
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bace_07
+    100002: Body
+    100004: //RootNode
+    100006: foot1
+    100008: foot2
+    100010: leg2
+    100012: leg2 1
+    100014: leg2 2
+    100016: leg2 3
+    100018: Mech_Leg7
+    100020: Mech_Leg8
+    100022: rotor2
+    100024: rotor2 1
+    100026: rotor5
+    100028: rotor5 1
+    100030: rotor7
+    100032: rotor7 1
+    100034: rotor8
+    100036: rotor8 1
+    100038: Tail
+    400000: Bace_07
+    400002: Body
+    400004: //RootNode
+    400006: foot1
+    400008: foot2
+    400010: leg2
+    400012: leg2 1
+    400014: leg2 2
+    400016: leg2 3
+    400018: Mech_Leg7
+    400020: Mech_Leg8
+    400022: rotor2
+    400024: rotor2 1
+    400026: rotor5
+    400028: rotor5 1
+    400030: rotor7
+    400032: rotor7 1
+    400034: rotor8
+    400036: rotor8 1
+    400038: Tail
+    2300000: Bace_07
+    2300002: Body
+    2300004: //RootNode
+    2300006: foot1
+    2300008: foot2
+    2300010: leg2
+    2300012: leg2 1
+    2300014: leg2 2
+    2300016: leg2 3
+    2300018: Mech_Leg7
+    2300020: Mech_Leg8
+    2300022: rotor2
+    2300024: rotor2 1
+    2300026: rotor5
+    2300028: rotor5 1
+    2300030: rotor7
+    2300032: rotor7 1
+    2300034: rotor8
+    2300036: rotor8 1
+    2300038: Tail
+    3300000: Bace_07
+    3300002: Body
+    3300004: //RootNode
+    3300006: foot1
+    3300008: foot2
+    3300010: leg2
+    3300012: leg2 1
+    3300014: leg2 2
+    3300016: leg2 3
+    3300018: Mech_Leg7
+    3300020: Mech_Leg8
+    3300022: rotor2
+    3300024: rotor2 1
+    3300026: rotor5
+    3300028: rotor5 1
+    3300030: rotor7
+    3300032: rotor7 1
+    3300034: rotor8
+    3300036: rotor8 1
+    3300038: Tail
+    4300000: CHICKEN_01
+    4300002: Body
+    4300004: Bace_07
+    4300006: Tail
+    4300008: Mech_Leg7
+    4300010: rotor5
+    4300012: rotor2
+    4300014: leg2
+    4300016: rotor7
+    4300018: leg2
+    4300020: rotor8
+    4300022: foot1
+    4300024: Mech_Leg8
+    4300026: rotor5
+    4300028: rotor2
+    4300030: leg2
+    4300032: rotor7
+    4300034: leg2
+    4300036: rotor8
+    4300038: foot2
+    4300040: TIS_VASILIKIS_I_KOTA
+    7400000: Idle
+    7400002: Run
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1.10000002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 12
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

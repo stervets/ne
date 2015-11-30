@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 040259ca6ced74fd88a5356841559e90
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: coil1
+    100002: coil1 1
+    100004: coil2
+    100006: coil2 1
+    100008: coil3
+    100010: coil3 1
+    100012: Discharger1
+    100014: Discharger1 1
+    100016: //RootNode
+    100018: polySurface142
+    100020: polySurface143
+    100022: TESLA_COIL1
+    100024: coil_10
+    100026: coil_11
+    100028: coil_25
+    100030: coil_26
+    100032: gun_15
+    100034: gun_16
+    400000: coil1
+    400002: coil1 1
+    400004: coil2
+    400006: coil2 1
+    400008: coil3
+    400010: coil3 1
+    400012: Discharger1
+    400014: Discharger1 1
+    400016: //RootNode
+    400018: polySurface142
+    400020: polySurface143
+    400022: TESLA_COIL1
+    400024: coil_10
+    400026: coil_11
+    400028: coil_25
+    400030: coil_26
+    400032: gun_15
+    400034: gun_16
+    2300000: coil1
+    2300002: coil1 1
+    2300004: coil2
+    2300006: coil2 1
+    2300008: coil3
+    2300010: coil3 1
+    2300012: Discharger1
+    2300014: Discharger1 1
+    2300016: //RootNode
+    2300018: polySurface142
+    2300020: polySurface143
+    2300022: TESLA_COIL1
+    2300024: coil_10
+    2300026: coil_11
+    2300028: coil_25
+    2300030: coil_26
+    2300032: gun_15
+    2300034: gun_16
+    3300000: coil1
+    3300002: coil1 1
+    3300004: coil2
+    3300006: coil2 1
+    3300008: coil3
+    3300010: coil3 1
+    3300012: Discharger1
+    3300014: Discharger1 1
+    3300016: //RootNode
+    3300018: polySurface142
+    3300020: polySurface143
+    3300022: TESLA_COIL1
+    3300024: coil_10
+    3300026: coil_11
+    3300028: coil_25
+    3300030: coil_26
+    3300032: gun_15
+    3300034: gun_16
+    4300000: EL_01_B
+    4300002: TESLA_COIL1
+    4300004: polySurface142
+    4300006: Discharger1
+    4300008: coil3
+    4300010: coil2
+    4300012: coil1
+    4300014: polySurface143
+    4300016: Discharger1
+    4300018: coil3
+    4300020: coil2
+    4300022: coil1
+    4300024: coil_10
+    4300026: coil_11
+    4300028: gun_15
+    4300030: coil_25
+    4300032: gun_16
+    4300034: coil_26
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

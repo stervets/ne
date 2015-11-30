@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: d093b4e936a0c40d496fd3503815296e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Barrel58
+    100002: Barrel59
+    100004: Barrel60
+    100006: Barrel61
+    100008: Barrel62
+    100010: Barrel63
+    100012: //RootNode
+    100014: Gun23
+    100016: Gun24
+    100018: Gun25
+    100020: Gun26
+    100022: Gun35
+    100024: Gun36
+    400000: Barrel58
+    400002: Barrel59
+    400004: Barrel60
+    400006: Barrel61
+    400008: Barrel62
+    400010: Barrel63
+    400012: //RootNode
+    400014: Gun23
+    400016: Gun24
+    400018: Gun25
+    400020: Gun26
+    400022: Gun35
+    400024: Gun36
+    2300000: Barrel58
+    2300002: Barrel59
+    2300004: Barrel60
+    2300006: Barrel61
+    2300008: Barrel62
+    2300010: Barrel63
+    2300012: //RootNode
+    2300014: Gun23
+    2300016: Gun24
+    2300018: Gun25
+    2300020: Gun26
+    2300022: Gun35
+    2300024: Gun36
+    3300000: Barrel58
+    3300002: Barrel59
+    3300004: Barrel60
+    3300006: Barrel61
+    3300008: Barrel62
+    3300010: Barrel63
+    3300012: //RootNode
+    3300014: Gun23
+    3300016: Gun24
+    3300018: Gun25
+    3300020: Gun26
+    3300022: Gun35
+    3300024: Gun36
+    4300000: GG_01_E
+    4300002: Gun24
+    4300004: Barrel59
+    4300006: Gun23
+    4300008: Barrel58
+    4300010: Gun25
+    4300012: Barrel60
+    4300014: Gun26
+    4300016: Barrel63
+    4300018: Gun35
+    4300020: Barrel62
+    4300022: Gun36
+    4300024: Barrel61
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 2e40e8a42779f414889b228c27eaeb45
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: claws_parts1
+    100004: claws_parts1 1
+    100006: claws_parts3
+    100008: claws_parts3 1
+    100010: claws_parts7
+    100012: claws_parts7 1
+    100014: claws_parts8
+    100016: claws_parts8 1
+    100018: pCube564
+    100020: pCube564 1
+    100022: pCube570
+    100024: pCube570 1
+    100026: Pipe134
+    100028: Pipe135
+    100030: Pipe136
+    100032: Pipe137
+    100034: Pipe138
+    100036: Pipe139
+    100038: Rotor20
+    100040: Rotor25
+    100042: Rotor8
+    100044: Rotor8 1
+    100046: Rotor8 2
+    100048: Rotor8 3
+    100050: Rotor9
+    100052: Rotor9 1
+    100054: Rotor9 2
+    100056: Rotor9 3
+    400000: //RootNode
+    400002: claws_parts1
+    400004: claws_parts1 1
+    400006: claws_parts3
+    400008: claws_parts3 1
+    400010: claws_parts7
+    400012: claws_parts7 1
+    400014: claws_parts8
+    400016: claws_parts8 1
+    400018: pCube564
+    400020: pCube564 1
+    400022: pCube570
+    400024: pCube570 1
+    400026: Pipe134
+    400028: Pipe135
+    400030: Pipe136
+    400032: Pipe137
+    400034: Pipe138
+    400036: Pipe139
+    400038: Rotor20
+    400040: Rotor25
+    400042: Rotor8
+    400044: Rotor8 1
+    400046: Rotor8 2
+    400048: Rotor8 3
+    400050: Rotor9
+    400052: Rotor9 1
+    400054: Rotor9 2
+    400056: Rotor9 3
+    2300000: //RootNode
+    2300002: claws_parts1
+    2300004: claws_parts1 1
+    2300006: claws_parts3
+    2300008: claws_parts3 1
+    2300010: claws_parts7
+    2300012: claws_parts7 1
+    2300014: claws_parts8
+    2300016: claws_parts8 1
+    2300018: pCube564
+    2300020: pCube564 1
+    2300022: pCube570
+    2300024: pCube570 1
+    2300026: Pipe134
+    2300028: Pipe135
+    2300030: Pipe136
+    2300032: Pipe137
+    2300034: Pipe138
+    2300036: Pipe139
+    2300038: Rotor20
+    2300040: Rotor25
+    2300042: Rotor8
+    2300044: Rotor8 1
+    2300046: Rotor8 2
+    2300048: Rotor8 3
+    2300050: Rotor9
+    2300052: Rotor9 1
+    2300054: Rotor9 2
+    2300056: Rotor9 3
+    3300000: //RootNode
+    3300002: claws_parts1
+    3300004: claws_parts1 1
+    3300006: claws_parts3
+    3300008: claws_parts3 1
+    3300010: claws_parts7
+    3300012: claws_parts7 1
+    3300014: claws_parts8
+    3300016: claws_parts8 1
+    3300018: pCube564
+    3300020: pCube564 1
+    3300022: pCube570
+    3300024: pCube570 1
+    3300026: Pipe134
+    3300028: Pipe135
+    3300030: Pipe136
+    3300032: Pipe137
+    3300034: Pipe138
+    3300036: Pipe139
+    3300038: Rotor20
+    3300040: Rotor25
+    3300042: Rotor8
+    3300044: Rotor8 1
+    3300046: Rotor8 2
+    3300048: Rotor8 3
+    3300050: Rotor9
+    3300052: Rotor9 1
+    3300054: Rotor9 2
+    3300056: Rotor9 3
+    4300000: CL_01_D
+    4300002: Pipe134
+    4300004: Pipe135
+    4300006: Pipe136
+    4300008: Pipe137
+    4300010: Pipe138
+    4300012: Pipe139
+    4300014: Rotor20
+    4300016: pCube570
+    4300018: Rotor8
+    4300020: claws_parts7
+    4300022: Rotor9
+    4300024: claws_parts8
+    4300026: pCube564
+    4300028: Rotor8
+    4300030: claws_parts3
+    4300032: Rotor9
+    4300034: claws_parts1
+    4300036: Rotor25
+    4300038: pCube570
+    4300040: Rotor8
+    4300042: claws_parts7
+    4300044: Rotor9
+    4300046: claws_parts8
+    4300048: pCube564
+    4300050: Rotor8
+    4300052: claws_parts3
+    4300054: Rotor9
+    4300056: claws_parts1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

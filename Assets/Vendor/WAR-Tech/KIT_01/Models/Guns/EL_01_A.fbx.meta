@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 3ce614ffaf6c04d2297a15b8aecb91b9
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: coil_
+    100002: //RootNode
+    100004: TESLA_COIL
+    100006: coil_1
+    100008: TESLA_COIL_coil_1
+    100010: polySurface178
+    100012: polySurface177
+    100014: polySurface179
+    100016: polySurface180
+    100018: polySurface181
+    100020: TESLA_COIL9
+    100022: transform34
+    100024: polySurface182
+    100026: polySurface183
+    100028: polySurface184
+    100030: coil_15
+    100032: gum_1
+    400000: coil_
+    400002: //RootNode
+    400004: TESLA_COIL
+    400006: coil_1
+    400008: TESLA_COIL_coil_1
+    400010: polySurface178
+    400012: polySurface177
+    400014: polySurface179
+    400016: polySurface180
+    400018: polySurface181
+    400020: TESLA_COIL9
+    400022: transform34
+    400024: polySurface182
+    400026: polySurface183
+    400028: polySurface184
+    400030: coil_15
+    400032: gum_1
+    2300000: coil_
+    2300002: //RootNode
+    2300004: TESLA_COIL
+    2300006: coil_1
+    2300008: TESLA_COIL_coil_1
+    2300010: polySurface178
+    2300012: polySurface177
+    2300014: polySurface179
+    2300016: polySurface180
+    2300018: polySurface181
+    2300020: TESLA_COIL9
+    2300022: polySurface182
+    2300024: polySurface183
+    2300026: polySurface184
+    2300028: coil_15
+    2300030: gum_1
+    3300000: coil_
+    3300002: //RootNode
+    3300004: TESLA_COIL
+    3300006: coil_1
+    3300008: TESLA_COIL_coil_1
+    3300010: polySurface178
+    3300012: polySurface177
+    3300014: polySurface179
+    3300016: polySurface180
+    3300018: polySurface181
+    3300020: TESLA_COIL9
+    3300022: polySurface182
+    3300024: polySurface183
+    3300026: polySurface184
+    3300028: coil_15
+    3300030: gum_1
+    4300000: EL_01_A
+    4300002: TESLA_COIL
+    4300004: coil_
+    4300006: coil_1
+    4300008: TESLA_COIL_coil_1
+    4300010: polySurface178
+    4300012: TESLA_COIL9
+    4300014: polySurface177
+    4300016: polySurface179
+    4300018: polySurface180
+    4300020: polySurface181
+    4300022: polySurface182
+    4300024: polySurface183
+    4300026: polySurface184
+    4300028: gum_1
+    4300030: coil_15
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

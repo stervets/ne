@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 2703434cb8290425da0b6541a04a6c73
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: base
+    100002: Part
+    100004: //RootNode
+    100006: Trach_Holder1
+    100008: Trach_Holder2
+    100010: Track1
+    100012: Track2
+    100014: Track_Part1
+    100016: Track_Part2
+    100018: wheel1
+    100020: wheel2
+    100022: wheel3
+    100024: wheel4
+    100026: wheel5
+    100028: wheel6
+    100030: wheel7
+    100032: wheel8
+    100034: pCylinder947
+    100036: pCylinder949
+    400000: base
+    400002: Part
+    400004: //RootNode
+    400006: Trach_Holder1
+    400008: Trach_Holder2
+    400010: Track1
+    400012: Track2
+    400014: Track_Part1
+    400016: Track_Part2
+    400018: wheel1
+    400020: wheel2
+    400022: wheel3
+    400024: wheel4
+    400026: wheel5
+    400028: wheel6
+    400030: wheel7
+    400032: wheel8
+    400034: pCylinder947
+    400036: pCylinder949
+    2300000: base
+    2300002: Part
+    2300004: //RootNode
+    2300006: Trach_Holder1
+    2300008: Trach_Holder2
+    2300010: Track1
+    2300012: Track2
+    2300014: Track_Part1
+    2300016: Track_Part2
+    2300018: wheel1
+    2300020: wheel2
+    2300022: wheel3
+    2300024: wheel4
+    2300026: wheel5
+    2300028: wheel6
+    2300030: wheel7
+    2300032: wheel8
+    2300034: pCylinder947
+    2300036: pCylinder949
+    3300000: base
+    3300002: Part
+    3300004: //RootNode
+    3300006: Trach_Holder1
+    3300008: Trach_Holder2
+    3300010: Track1
+    3300012: Track2
+    3300014: Track_Part1
+    3300016: Track_Part2
+    3300018: wheel1
+    3300020: wheel2
+    3300022: wheel3
+    3300024: wheel4
+    3300026: wheel5
+    3300028: wheel6
+    3300030: wheel7
+    3300032: wheel8
+    3300034: pCylinder947
+    3300036: pCylinder949
+    4300000: TANK_01
+    4300002: Part
+    4300004: Trach_Holder2
+    4300006: Track2
+    4300008: wheel4
+    4300010: wheel3
+    4300012: wheel1
+    4300014: wheel2
+    4300016: Track_Part2
+    4300018: Trach_Holder1
+    4300020: Track1
+    4300022: wheel8
+    4300024: wheel7
+    4300026: wheel6
+    4300028: wheel5
+    4300030: Track_Part1
+    4300032: base
+    4300034: pCylinder947
+    4300036: pCylinder949
+    4300038: PL_TANK_01
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 3
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
